@@ -1,0 +1,85 @@
+header {
+    width: 80%;
+    padding: 10% 5% 10% 5%;
+    background-color: #BFBFBF;
+}
+
+nav {
+    background-color: #000000;
+    padding: 20px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p, a, button {
+    font-family: 'PT Sans', sans-serif;
+
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+article {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+article h3 {
+    text-decoration: underline;
+}
+
+p{
+    font-size: 16px;
+}
+
+a{
+    font-size: 16px;
+    text-decoration: none;
+    padding: 0px 10px 0px 10px;
+}
+
+nav a {
+    color: #ffffff
+}
+
+button {
+    font-size: 16px;
+}
+ 
+div {
+    text-align: center;
+}
+
+aside {
+    width: 20%;
+    margin: 5%;
+    float: right;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.destaque h3 {
+    color: #95BBDF;
+}
+
+.margem-esquerda {
+    margin-left: 140px;
+}
+
+.margem-esquerda-1 {
+    margin-left: 140px;
+}
